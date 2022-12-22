@@ -1,0 +1,14 @@
+Parameter,Low,High,Low Disorder,Low remedies,High Disorder,High remedies
+Blood Sugar,70,90,Hypoglycemia,fruit juice,Hypoglycemia,Drink Plenty of Water
+BUN,6,24,Malnutrition ,Increase protein intake,Dehydration,Lower Protein Diet
+Calcium,8.5,10.2,Hypocalcemia,"Fortified Tofu,White beans,White bread",Hypercalcemia,Reduce intake of calcium pills
+Cholesterol,200,239,haemorrhagic stroke,"Coriander seeds,Onion Coconut oil",Hemorrhagic stroke,eliminate Saturated fats & trans fat
+Iron,60,170,Anemia,"Beetroot,Citrus fruit,bananas,dates",Hemochromatosis,Avoid uncooked food
+Magnesium,1.7,2.2,Hypomagnesemia,"Leafy green vegetables,nuts,seeds",Hypermagnesemia,Intake of Dairy food and protein
+Phosphate,2.8,4.5,Hypophosphatomenia,"Protein rich-meat,Fish,Nuts,Beans",Hyperphosphatomenia,Avoid fast food
+Platelet,150000,450000,Thrombocytopenia,"Pumpkin,Papaya leaves,Lemon juice,Spinach",Thrombocytosis,"Increase physical activity & intake of garlic,ginger,dark chocolate "
+Potassium,3.6,5.2,Hyperkalenia,"Peas,Raw milk,Bananas,Avocado",Hyperkalenia,"Avoid salt substitute & Spinach"
+Sodium,135,145,Hyponatremia,"Milk,Broccoli,Yoghurt",Hypernatremia,intake of fruit & vegetables
+Uric Acid,3.5,7.2,Hypouricemia,"Apple,Cider,Amla,Honey",Hyperuricemia,"Avoid sugar & add more fiber to diet"
+WBC,4500,11000,lymphoma,"Orange,Sweet potato,Watermelon",Allergic reaction,"Avoid sugar,fats & salt"
+,,,Hypotention,,Hypertention,
